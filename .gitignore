@@ -1,0 +1,30 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.proc/
+proc/
+proc/
+
+# Environment variables
+.env
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Model files
+*.pkl
+*.h5
+*.weights
+*.model
